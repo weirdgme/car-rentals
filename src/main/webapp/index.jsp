@@ -1,8 +1,8 @@
-<html>
+<!-- <html>
 	<body>
 		<h1 style="color:red;">Welcome to Mr Aaron Car Rentals Application !</h1>
 	</body>
-</html>
+</html> -->
 
 <html>
     <head>
@@ -14,7 +14,7 @@
         }   
         </script>
         <title>
-            A Simple Calculator
+            A COMPLEX Calculator
         </title>
     </head>
     <body>
